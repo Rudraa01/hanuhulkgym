@@ -3,7 +3,6 @@ import {
   MapPin,
   Clock,
   Phone,
-  Mail,
   Instagram,
   Facebook,
   Youtube,
